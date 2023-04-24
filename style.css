@@ -1,19 +1,14 @@
-
-/* Menu Page CSS Code */
-
-/* Affects entire document */
 body {
   height: 100%;
   width: 100%;
   margin: 0;
   background-color: lightblue;
   }
-  
-  /*Header CSS Code*/
-  h1 {
+
+/*Header CSS Code*/
+h1 {
   color: #4d3319;
   text-align: left;
   margin: 0% 2%;
   text-shadow: 3px 3px 3px antiquewhite;
-  }
-  
+}
