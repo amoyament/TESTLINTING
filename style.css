@@ -2,10 +2,9 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  background-color: lightblue;
-  }
+  background-color: lightblue;}
 
-/*Header CSS Code*/
+/* Header CSS Code */
 h1 {
   color: #4d3319;
   text-align: left;
